@@ -1,8 +1,8 @@
-# Baryo
+# Baryogenesis
 
 ## Anisotropic Cosmology and DESI ADPD Analysis
 
-This repository contains the numerical pipeline used to study homogeneous but anisotropic cosmological models using the DESI Angular Density Probability Distribution (ADPD) statistic.
+This repository contains the numerical pipeline used to study Thurston's Nil geometry using the DESI Angular Density Probability Distribution (ADPD) statistic.
 
 The code generates anisotropic mock catalogues, computes the ADPD statistic, evaluates the likelihood against DESI observations, scans the anisotropy parameter space, and produces the final comparison figures.
 
