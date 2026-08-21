@@ -91,8 +91,6 @@ The anisotropic model changes only the theoretical prediction; the covariance ma
 
 If you use this code, please cite
 
-- DESI Collaboration DR1
+- Our accompanying anisotropic cosmology publication
 - The FLAMINGO simulation papers
-- Our accompanying anisotropic cosmology publication (to appear)
-
-
+- DESI Collaboration DR1
